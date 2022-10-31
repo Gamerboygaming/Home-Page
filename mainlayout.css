@@ -11,3 +11,6 @@ header {
 header a {
     color: darkgray;
 }
+header p {
+    text-size-adjust: 5em;
+}
