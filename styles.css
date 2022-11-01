@@ -26,4 +26,5 @@ nav.menu li {
     height: 1.5em;
     display: inline-block;
     background-color: darkblue;
+    font-size: medium;
 }
