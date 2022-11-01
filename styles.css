@@ -8,6 +8,7 @@ html {
 }
 body {
     background-color: rgb(247, 134, 0);
+    width: 100%;
 }
 header {
     margin-top: 5%;
