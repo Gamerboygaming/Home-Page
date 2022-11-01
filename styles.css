@@ -22,7 +22,7 @@ header > p {
 }
 nav.menu li {
     list-style-type: none;
-    width: 25%;
+    width: 20%;
     height: 1.5em;
     display: inline-block;
     background-color: darkblue;
