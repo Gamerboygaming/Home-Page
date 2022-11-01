@@ -27,4 +27,5 @@ nav.menu li {
     display: inline-block;
     background-color: darkblue;
     font-size: medium;
+    font-display: middle;
 }
