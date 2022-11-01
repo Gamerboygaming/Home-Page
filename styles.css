@@ -1,7 +1,7 @@
 @charset "utf-8";
 a {
     text-decoration: none;
-    color: blue;
+    color: green;
 }
 html {
     background-color: rgb(16, 232, 30);
@@ -24,4 +24,5 @@ nav#menu li {
     list-style-type: none;
     margin: auto, 20px;
     display: inline-block;
+    background-color: darkblue;
 }
