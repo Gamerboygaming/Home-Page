@@ -20,9 +20,9 @@ header h1 {
 header > p {
     font-size: 20px;
 }
-nav.menu li {
+button.menu {
     list-style-type: none;
-    width: 10%;
+    width: 24%;
     height: 1.5em;
     display: inline-block;
     background-color: darkblue;
