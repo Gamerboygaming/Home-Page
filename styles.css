@@ -28,4 +28,7 @@ button.menu {
     background-color: darkblue;
     font-size: medium;
     font-display: middle;
+    border-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
