@@ -6,11 +6,11 @@ a {
 }
 header {
     text-align: center;
-    text-size-adjust: 30px;
+    font-size: 30px;
 }
 header a {
     color: darkgray;
 }
 header > p {
-    text-size-adjust: 10px;
+    font-size: 10px;
 }
